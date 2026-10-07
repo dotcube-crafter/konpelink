@@ -193,28 +193,26 @@ const worksData = [
     },
     {
         type: "game",
-        titleJa: "丘の下株式会社",
-        titleEn: "丘の下株式会社",
-        authorJa: "幽霊部員",
+        titleJa: "arg 〜不審死を解決せよ〜",
+        titleEn: "arg 〜不審死を解決せよ〜",
+        authorJa: "≒幽霊部員",
         category: "GAME",
         thumbText: "Game Screen",
         imagePath: "web.png",
         link: "https://ngo855.github.io/arg-game",
         btnText: "Play"
     },
-
     {
-        type: "web",                  // さっきCSSで作った「web」を指定
-        titleJa: "サークル公式Web",
-        titleEn: "Official Website",
-        authorJa: "Web制作班",
-        authorEn: "Web Team",
-        category: "WEB",
-        thumbText: "Browser Screen",
-        imagePath: "homepage.png",
-        link: "https://dot-cube.github.io/", // 実際のWebサイトのURL
-        btnText: "Visit"
-    }
+        type: "game",
+        titleJa: "EEESCAPE",
+        titleEn: "EEESCAPE",
+        authorJa: "葛根湯信者",
+        category: "GAME",
+        thumbText: "Game Screen",
+        imagePath: "",
+        link: "https://unityroom.com/games/eeescape",
+        btnText: "Play"
+    },
 ];
 
 // =========================================
